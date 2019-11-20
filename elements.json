@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {"name": "FX", "elems" : ["EQ","Distortion", "Phaser/Flanger","Compression"]},
+    {"name": "Instruments", "elems" : ["Piano", "String", "Wave synth","Bell","Brass","Vocal chops"]},
+    {"name": "Envelope", "elems": ["Wub", "Pluck","Square Gates", "Continuous"]},
+    {"name": "Comp Structure", "elems": ["chords","arpeggios", "staccato on the same notes", "two-note arps", "two-note chords"]}
+  ],
+  "exceptions": {
+    "Wave synth": ["Square", "Saw", "Monster/ Squelch / Reese", "Triangle / Sine"],
+    "Distortion": ["Camelcrusher","Overdrive","Bitcrusher", "Decimate"]
+  }
+}
