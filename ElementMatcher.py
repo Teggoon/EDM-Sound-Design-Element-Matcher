@@ -42,7 +42,7 @@ while userInput != "q":
                 wentIn = True
                 entryNum = len(data["exceptions"][key])
                 picker = random.randint(0,entryNum - 1)
-                outputString = data["entries"][i]["name"] + ": " + key + " - " + data["exceptions"][key][picker];
+                outputString = "--- " + key + " - " + data["exceptions"][key][picker];
 
 
                 print(outputString);
@@ -50,7 +50,7 @@ while userInput != "q":
                 break;
 
         if wentIn == False:
-            outputString = data["entries"][i]["name"] + ": " + pickedElement;
+            outputString = "--- " + pickedElement;
             print(outputString);
             currentMatch.append(outputString);
 
@@ -63,7 +63,7 @@ while userInput != "q":
         currentMatch = []
         continue
     elif userInput == "s":
-        output = "------------------\n\n"
+        output = "------------------------------------------------------\n\n"
         output += " \n".join(currentMatch)
         output += "\n\n"
         savedFileWriter.write(output)

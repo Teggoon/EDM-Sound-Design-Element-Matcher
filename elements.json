@@ -1,8 +1,8 @@
 {
   "entries": [
 
-    {"name": "FX", "elems" : ["EQ","Distortion", "Phaser/Flanger","Compression",
-      "Vocoder","Delay","Reverb","Reverb before distortion","Multi-voice","Chorus"]},
+    {"name": "FX", "elems" : ["EQ","Distortion", "Phaser/Flanger",
+      "Vocoder","Delay","Reverb before distortion","Multi-voice","Chorus"]},
 
     {"name": "Instruments", "elems" : ["Piano", "String", "Wave synth","Bell","Brass",
       "Vocal chops", "Guitar","Nexus pluck", "Nexus pad","Rhodes","Alter-Ego vocals","Nexus arps","Zebralette","FL Slayer"]},

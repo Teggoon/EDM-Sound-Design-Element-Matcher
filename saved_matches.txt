@@ -1,35 +1,94 @@
-------------------
+------------------------------------------------------
 
-FX: Delay 
-Instruments: Nexus arps 
-Envelope: Continuous 
-Comp Structure: Staccato on the same notes
+--- Delay
+--- Nexus arps
+--- Continuous
+--- Staccato on the same notes
 
-------------------
+------------------------------------------------------
 
-FX: Reverb before distortion 
-Instruments: Wave synth - Monster/ Squelch / Reese 
-Envelope: Continuous 
-Comp Structure: Arpeggios
+--- Reverb before distortion
+--- Wave synth - Monster/ Squelch / Reese
+--- Continuous
+--- Arpeggios
 
-------------------
+------------------------------------------------------
 
-FX: Vocodex 
-Instruments: Rhodes 
-Envelope: Wub 
-Comp Structure: Arpeggios
+--- Vocodex
+--- Rhodes
+--- Wub
+--- Arpeggios
 
-------------------
+------------------------------------------------------
 
-FX: Multi-voice 
-Instruments: Wave synth - Saw 
-Envelope: Wub 
-Comp Structure: Arpeggios
+--- Multi-voice
+--- Wave synth - Saw
+--- Wub
+--- Arpeggios
 
-------------------
+------------------------------------------------------
 
-FX: Reverb before distortion 
-Instruments: Bell 
-Envelope: Fade-in 
-Comp Structure: Two-note chords
+--- Reverb before distortion
+--- Bell
+--- Fade-in
+--- Two-note chords
 
+------------------------------------------------------
+
+--- Delay
+--- Nexus pluck - Dr Chaotica
+--- Fade-in
+--- Arpeggios
+
+------------------------------------------------------
+
+--- Vocoder - Oddpass
+--- String
+--- Wub
+--- Arpeggios
+
+------------------------------------------------------
+
+--- Chorus
+--- Alter-Ego vocals
+--- Wub
+--- Staccato on the same notes
+------------------------------------------------------
+
+--- Phaser/Flanger
+--- Brass
+--- Pluck
+--- Arpeggios
+--- Multi-voice
+--- Zebralette
+--- Fade-in
+--- Staccato on the same notes
+--- Reverb before distortion
+--- Brass
+--- Continuous
+--- Arpeggios
+
+------------------------------------------------------
+
+--- Vocoder - Monster/ Squelch / Reese
+--- Nexus arps
+--- Square Gates
+--- Arpeggios
+
+------------------------------------------------------
+
+--- Delay
+--- Nexus pad
+--- Pluck
+--- Chords
+--- Reverb before distortion
+--- Nexus pad
+--- Pluck
+--- Two-note chords
+
+------------------------------------------------------
+
+--- Distortion - Decimate
+--- String
+--- Wub
+--- Arpeggios
