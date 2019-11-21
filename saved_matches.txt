@@ -1,0 +1,35 @@
+------------------
+
+FX: Delay 
+Instruments: Nexus arps 
+Envelope: Continuous 
+Comp Structure: Staccato on the same notes
+
+------------------
+
+FX: Reverb before distortion 
+Instruments: Wave synth - Monster/ Squelch / Reese 
+Envelope: Continuous 
+Comp Structure: Arpeggios
+
+------------------
+
+FX: Vocodex 
+Instruments: Rhodes 
+Envelope: Wub 
+Comp Structure: Arpeggios
+
+------------------
+
+FX: Multi-voice 
+Instruments: Wave synth - Saw 
+Envelope: Wub 
+Comp Structure: Arpeggios
+
+------------------
+
+FX: Reverb before distortion 
+Instruments: Bell 
+Envelope: Fade-in 
+Comp Structure: Two-note chords
+
