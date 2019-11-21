@@ -1,12 +1,27 @@
 {
   "entries": [
-    {"name": "FX", "elems" : ["EQ","Distortion", "Phaser/Flanger","Compression"]},
-    {"name": "Instruments", "elems" : ["Piano", "String", "Wave synth","Bell","Brass","Vocal chops"]},
-    {"name": "Envelope", "elems": ["Wub", "Pluck","Square Gates", "Continuous"]},
-    {"name": "Comp Structure", "elems": ["chords","arpeggios", "staccato on the same notes", "two-note arps", "two-note chords"]}
+
+    {"name": "FX", "elems" : ["EQ","Distortion", "Phaser/Flanger","Compression",
+      "Vocoder","Delay","Reverb","Reverb before distortion","Multi-voice","Chorus"]},
+
+    {"name": "Instruments", "elems" : ["Piano", "String", "Wave synth","Bell","Brass",
+      "Vocal chops", "Guitar","Nexus pluck", "Nexus pad","Rhodes","Alter-Ego vocals","Nexus arps","Zebralette","FL Slayer"]},
+
+    {"name": "Envelope", "elems": ["Wub", "Pluck","Square Gates", "Continuous","Fade-in"]},
+
+    {"name": "Comp Structure", "elems": ["Chords","Arpeggios", "Staccato on the same notes", "Two-note arps", "Two-note chords"]}
   ],
   "exceptions": {
     "Wave synth": ["Square", "Saw", "Monster/ Squelch / Reese", "Triangle / Sine"],
-    "Distortion": ["Camelcrusher","Overdrive","Bitcrusher", "Decimate"]
+    "Distortion": ["Camelcrusher","Overdrive","Bitcrusher", "Decimate"],
+    "EQ": ["Notch", "Lowpass","bandpass","highpass", "Strong Resonance"],
+    "Vocoder": ["Square", "Saw", "Monster/ Squelch / Reese", "Oddpass"],
+    "Nexus pluck": ["Amberpike","Beauty Combi","Bellstrings","Bit Stylez",
+      "Creamalogue","Dyk Pikes","Dr Chaotica","Ethno Lead","FM Bells","Illusionize",
+    "Muted Pad / Mute Guitars","Orchid Drop","Pizza Bell","Tri morph","UK Pikes","VZ Bells"],
+    "Piano": ["Ballad E-piano","Nexus Grand Piano","Delayed Piano","Nebula","Dancepiano 2k17",
+      "Ibiza","Lofi piano","Netherworlds","Playing piano in heaven","Pop Keys","Soft and Tiny",
+    "Sun Piano","Terminator Piano"],
+    "FL Slayer": ["Bass Fretless"]
   }
 }
